@@ -1,0 +1,11 @@
+h2 {
+  background-color: rgb(190, 190, 255);
+}
+span {
+  color: rgb(95, 95, 250);
+}
+button{
+    width: 50px;
+    font-size: 12px;
+    margin-left: 10px;
+}
